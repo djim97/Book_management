@@ -1,6 +1,4 @@
 package entities;
-
-import java.time.Instant;
 import java.time.LocalDateTime;
 
 public class Book extends BaseEntity {
